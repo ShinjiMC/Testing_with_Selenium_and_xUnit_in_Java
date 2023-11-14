@@ -183,7 +183,7 @@ Para ejecutar este ejemplo desde la terminal, sigue estos pasos:
 mvn test
 ```
 
-![Compile Test](/img/compile_Test.png)
+![Compile Test](/img/compile_test.png)
 
 La ejecución de las pruebas fue exitosa y los resultados coinciden con lo esperado. Al utilizar el comando `mvn test`, todas las pruebas definidas en el archivo `AppTest.java` se ejecutaron correctamente.
 
@@ -379,7 +379,7 @@ To run this example from the terminal, follow these steps:
 mvn test
 ```
 
-![Compile Test](/img/compile_Test.png)
+![Compile Test](/img/compile_test.png)
 
 The test execution was successful, and the results match the expected outcomes. By using the `mvn test` command, all tests defined in the `AppTest.java` file were executed successfully.
 
